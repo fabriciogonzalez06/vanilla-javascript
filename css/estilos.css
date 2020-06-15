@@ -1,0 +1,15 @@
+div {
+    width: 30%;
+    background-color: #000;
+    color: #fff;
+    padding: 30px;
+    margin: auto;
+}
+
+.ocultar {
+    display: none;
+}
+
+.mostrar {
+    display: block;
+}
