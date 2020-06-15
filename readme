@@ -1,5 +1,7 @@
-1- git init
+1- git init //inicializa el repositorio, solo se hace una vez
 
-2- git add .
+2- git add .  //agrega todos los archivos al stage, los que no han sido agregados
 
-3- git commit -m "primer commit"
+3- git commit -m "primer commit"  //guarda un nuevo estado de archivos para ser enviados a github
+
+4- git push -u origin master //envia los archivos al repositorio, con los nuevos cambios
